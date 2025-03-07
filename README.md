@@ -1,7 +1,16 @@
-## HELLO!!
-<!--
-👋 Hi, My name is Kaung Myat Soe, you can call me K.
-💻 Passionate about Machine Learning, Deep Learning, Ai and Web development. 
-🎮 Also like to watch Football, SUIIII!!! 
-⚡ Always learning and building cool projects!
--->
+# 👋 Hi, I'm Kaung Myat Soe!  
+You can call me **K**.  
+
+## 💻 About Me  
+- Passionate about **Machine Learning, Deep Learning, AI, and Web Development**.  
+- Always learning and building cool projects! 🚀  
+
+## 🎮 Interests  
+- Huge football fan — **SUIIII!!!** ⚽🔥
+- Also love to play FIFA, Batman-Arkham Knight
+
+## 📫 Let's Connect  
+ - [Email](kaungsoe132004@gmail.com)  
+
+---
+⭐️ *Feel free to check out my projects!*  
