@@ -10,7 +10,7 @@ You can call me **K**.
 - Also love to play FIFA, Batman-Arkham Knight
 
 ## 📫 Let's Connect  
- - [Email](kaungsoe132004@gmail.com)  
+ - kaungsoe132004@gmail.com  
 
 ---
 ⭐️ *Feel free to check out my projects!*  
