@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hi, I'm Kaung Myat Soe!  <br>You can call me **K**.  <br><br>## 💻 About Me  <br>- Passionate about **Machine Learning, Deep Learning, AI, and Web Development**.  <br>- Always learning and building cool projects! 🚀  <br><br>## 🎮 Interests  <br>- Huge football fan — **SUIIII!!!** ⚽🔥<br>- Also love to play FIFA, Batman-Arkham Knight<br><br>## 📫 Let's Connect  <br> - kaungsoe132004@gmail.com  <br><br>---<br>⭐️ *Feel free to check out my projects!*  <br>
+# 👋 Hi, I'm Kaung Myat Soe!  <br>You can call me **K**.  <br><br>## 💻 About Me  <br>- Passionate about **Machine Learning, Deep Learning, AI, and Web Development**.  <br>- Always learning and building cool projects! 🚀  <br><br>## 🎮 Interests  <br>- Huge football fan — **SUIIII!!!** ⚽🔥<br>- Also love to play FIFA, Batman-Arkham Knight<br><br>---<br>⭐️ *Feel free to check out my projects!*  <br>
 
 
 ## 🌐 Socials:
