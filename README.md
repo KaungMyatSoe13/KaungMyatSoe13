@@ -1,12 +1,17 @@
 <br><img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" width="400">
 <br>
 # 💫 About Me:
-# 👋 Hi, I'm Kaung Myat Soe!  <br>You can call me **K**.  <br><br>## 💻 About Me  <br>- Passionate about **Machine Learning, Deep Learning, AI, and Web Development**.  <br>- Always learning and building cool projects! 🚀  <br><br>## 🎮 Interests  <br>- Huge football fan — **SUIIII!!!** ⚽🔥<br>- Also love to play FIFA, Batman-Arkham Knight<br><br>---<br>⭐️ *Feel free to check out my projects!*  <br>
-
-
-# 🌐 Socials:<div align="">
-</div>
+## 👋 Hi, I'm Kaung Myat Soe! You can call me **K**.  <br><be>
+###    - Passionate about **Machine Learning, Deep Learning, AI, and Web Development**.
+###    - Always learning and building cool projects! 🚀  <br><be>
 <br>
+
+# 🎮 Interests 
+### - Huge football fan — **SUIIII!!!** ⚽🔥
+### - Also love to play FIFA, Batman-Arkham Knight<br><be>
+<br>
+
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/k_forsure) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kforsure) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaungsoe132004@gmail.com) 
 
 # 💻 Tech Stack:<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="400"><br>
