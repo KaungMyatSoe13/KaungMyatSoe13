@@ -1,7 +1,7 @@
 <br><img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" width="400">
 <br>
 ## Hi, My name is Kaung Myat Soe! You can call me **K**.  <br><be>
-###    - Like to Cook **Web & Mobile Development. But also trying to keep up with the AI too **.
+###    - Like to Cook **Web & Mobile Development. But also trying to keep up with the AI too.
 ###    - Let me COOK!  <br><be>
 <br>
 
